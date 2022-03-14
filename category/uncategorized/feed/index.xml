@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; boundigitalized</title>
+	<title>Uncategorized &#8211; Digitalized</title>
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 11 Mar 2022 14:03:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Mar 2022 19:49:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/2022/03/11/hello-world/</link>
-					<comments>/2022/03/11/hello-world/#respond</comments>
+		<link>/2022/03/14/hello-world/</link>
+					<comments>/2022/03/14/hello-world/#respond</comments>
 		
-		<dc:creator><![CDATA[boundigitalized]]></dc:creator>
-		<pubDate>Fri, 11 Mar 2022 14:03:45 +0000</pubDate>
+		<dc:creator><![CDATA[sky2]]></dc:creator>
+		<pubDate>Mon, 14 Mar 2022 19:49:39 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/03/11/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/03/14/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
